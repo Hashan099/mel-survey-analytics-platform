@@ -13,6 +13,9 @@
 
 A full-stack enterprise web application built for the **National Languages Division (NLD)** under the Ministry of Public Administration in Sri Lanka. The platform digitizes and automates the end-to-end **Monitoring, Evaluation & Learning (MEL)** lifecycle for Official Languages Policy (OLP) compliance, public service bilingual capacity training (Sinhala & Tamil), and citizen front-office service evaluations across Sri Lanka's **9 Provinces** and **331+ Divisional Secretariats**.
 
+<img width="2556" height="1306" alt="Screenshot 2026-10-16 174632" src="https://github.com/user-attachments/assets/b113bc61-60c5-4066-a9ea-e9336b9c3e83" />
+
+
 ---
 
 ## 🌟 Interactive Portfolio Demo (No Cloud Setup Required)
